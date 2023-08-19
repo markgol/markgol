@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @markgol
 - 💞️ I’m looking to collaborate on A Sign From Space
-- 📫 A Sign From Space Discord channel
+- 📫 A Sign From Space Discord channel, Iokie
