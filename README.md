@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @markgol
-- 👀 I’m interested in ONVIF camera client applications for the elderly
-- 🌱 I’m currently learning streaming video and ptz control of ONVIF compliant cameras
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, leave a comment
+- 💞️ I’m looking to collaborate on A Sign From Space
+- 📫 A Sign From Space Discord channel
